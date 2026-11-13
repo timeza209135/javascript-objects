@@ -8,7 +8,7 @@ const product = {
 };
 let socialMediaShare = "facebookShare";
 product.ratings = 4.5
-product.photo = "href='https://i01.appmifile.com/webfile/globalimg/products/pc/mi-air-purifier-3H/replace_03.jpg'>https://i01.appmifile.com/webfile/globalimg/products/pc/mi-air-purifier-3H/replace_03.jpg"
+product.photo = "https://i01.appmifile.com/webfile/globalimg/products/pc/mi-air-purifier-3H/replace_03.jpg'>https://i01.appmifile.com/webfile/globalimg/products/pc/mi-air-purifier-3H/replace_03.jpg"
 product.code = "IT0101010"
 product.price = 6000
 delete product.ratings;
